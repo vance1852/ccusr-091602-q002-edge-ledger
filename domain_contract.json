@@ -1,0 +1,6 @@
+{
+  "project": "edge-telemetry-ledger",
+  "event_results": ["accepted", "duplicate", "late", "sequence_conflict", "quarantined"],
+  "time_quality": ["device", "corrected", "estimated", "unknown"],
+  "window_states": ["open", "sealed", "revised"]
+}
